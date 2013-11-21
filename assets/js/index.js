@@ -6,6 +6,7 @@
 (function ($) {
     "use strict";
 
+
     $(document).ready(function(){
 
         // On the home page, move the blog icon inside the header 
